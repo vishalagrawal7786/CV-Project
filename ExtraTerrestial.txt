@@ -1,0 +1,197 @@
+git Personel Access Token
+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
+
+20:27 14-10-2022LONG_DESCRIPTION
+ERROR_CAUSE_LONG
+ACTION_TAKEN
+PERFORMED_WORK
+Simply Explained
+
+CernerEng Big Data Architecture Patterns
+
+BBarters
+
+BI with Mina
+
+Christopher Okhravi
+
+Martin Kleppmann  Thinking in Events: From Databases to Distributed Collaboration Software (ACM DEBS 2021)
+
+
+Anuradha Bhatia 
+
+javavids
+
+Computer Science  Stock Price Prediction Using Python & Machine Learning 
+--Python playlist(has many interesting small projects)
+
+Data Council Functional Data Engineering - A Set of Best Practices | Lyft
+
+AltexSoft -- Pump videos before theory interviews
+
+y ByteByteGo
+
+Devoxx - like data council  
+
+CMU Database Group - Open-source Change Data Capture With Debezium (Gunnar Morling)  & Advanced Database Systems (Spring 2020)
+
+Fred 4 - github projects - udemy design patterns - udemy project course
+
+
+
+Distributed Systems
+
+MIT 6.824: Distributed Systems
+
+uwaterloo CS 436: Distributed Computer Systems - Lecture 22
+
+Lindsey Kuper
+
+Dave's Space python / math
+
+ Corey Schafer - python -------------------BEST
+
+ Think Software
+Distributed Systems Course
+GOTO Conferences - Why Are Distributed Systems so Hard? • Denise Yu • GOTO 2020
+
+Hussain Naseer- database end to end
+
+which ds to use when 
+
+
+Fred+Data Structures and Algorithms in Python-->Python
+
+Python(Fred)+Data Structures(Data Structures and Algorithms in Python)--->Is what we know
+Algorithm(Data Structures and Algorithms in Python+ Introduction to Algorithm Coremen)---->Approach of problem solving using python & data structure
+Algorithm types(Divide and Conquer, Searching , Sorting , BFS , DFS , Dynamic Prog.)
+
+Saved to play list yt
+
+Joseph Dugan
+
+Data Structure Algo- NPTEL
+
+
+RobEdwards
+
+Rabula
+
+YT Playlists & watch later
+
+SDE Skills ----do check out containes many things.
+
+tutoriaLinux
+
+Understanding each "TOPICS" DS and Algo in depth and applications, theories around it for rock start in coding.
+
+(Prog Lang. + Maths + DS + ALGO)TOPIC->ALL Videos-> ALL ebooks-> Questions
+
+https://github.com/theanalyst/awesome-distributed-systems
+https://disco.ethz.ch/courses/podc_allstars/
+
+University Academy - yt
+
+Optimization and Statistics
+
+Jukka Suomela-- Parallel computers
+
+
+Kendra Little--- Advanced SQL - best
+
+
+Dave's Space - python datascience
+
+
+matsciencechannel - madhavan mukund
+
+NPTEL - Special Lecture Series- ACM
+
+IIT Madras - B.S. Degree Programme
+
+
+Ankil Bansal - SQL complex--Interview SQL
+
+ByteByteGo
+
+freeCodeCamp.org 
+
+Python Basics
+10.2K subscribers
+
+Sigma Coding
+
+Part Time Larry---best fin tech python - Domain - trading
+
+**projects**
+Tech With Tim
+NeuralNine
+https://github.com/kerolloz/atm-project
+https://github.com/praveenkumarsrivas/Jarvis-AI-using-python3-
+
+
+all projects in computer + freecodecamp+YT video bookmarks  + NPTEL fairshare + fred projects + Customer 360 + SDESkills projects OOP
+
+creating udemy course taking all projects + code
+
+fill git using these projects
+linkedin saved posts
+
+Sanjeev Thiyagarajan
+add:
+medium.com profile
+git profile
+linkedin profile	
+
+(add some in resume)(Extras)Not in cv : databricks workflows,dbt, SQL endpoint,aggregated tables ,Semantic layer, photon, Unity catalog, api, cosmos db, console app -- all new things ++
+
+[Airflow, DBT, Snowflake]
+
+understand literature quickly(mainly indian teachers I consume 100 in 2x less time) and apply them (on interested idea)
+
+idea & interest(application idea) will motivate me for better outcome(with tech)
+
+
+Certifications- GCP,AWS,AZURE
+Python udemy, database udemy
+
+Anuj Syal - big picture
+
+notion.so for documentaion and arch
+whimsical for skill graph
+
+meedium pe incremental aas refresh
+& logic app parallel trigger
+
+1)Python
+
+Python 3: Deep Dive (Part 1 - Functional) - 46 6*7+3 = 7.5 days
+Python 3: Deep Dive (Part 2 - Iteration, Generators) - 36 6*6 = 6 days
+Python 3: Deep Dive (Part 3 - Hash Maps, JSON Serialization) - 22 = 6*3 + 4 = 3.5 days
+Python 3: Deep Dive (Part 4 - OOP) - 36.5 = 6*6+0.5 = 6 days
+
+23 days = 138hrs/2 = 69 hrs
+
+numpy, pandas, scipy,
+
+interview:
+python lib
+spark lib
+internals of python , spark
+spark optimizations
+
+python code
+spark code
+python & spark lib , code
+spark internals, core
+spark optimizations
+python and spark integrations with their members
+MPP like cosmosdb, Airflow
+data structures
+
+each and everything that I touch daily,code
+cost of everything(storage + computation) each thread
+
+optimize resume,all profiles profile
+
+python library
